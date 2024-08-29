@@ -1,4 +1,4 @@
-# ESP32-Audio-Kit-V2.2-A417
+# ESP32-Audio-Kit
 
 Collection of information on the ESP32 audio kit.
 
