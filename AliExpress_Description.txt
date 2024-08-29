@@ -1,0 +1,28 @@
+ESP32-Audio-Kit is a small audio development board based on ESP32-A1S module. Most audio peripherals are distributed on both sides of the development board, supporting TF card, headphone output, two microphone inputs and two speaker outputs. It is convenient for developers to develop quickly. Suitable for home smart devices, smart speaker solutions, children's story machine prototypes, etc., is an ideal solution for IoT applications.
+
+Characteristics;
+Low-power dual-core 32-bit CPU for application processors
+
+Main frequency up to 240MHz, computing power up to 600 DMIPS
+
+Built-in 520 KB SRAM, 8M
+
+Supports interfaces such as UART/SPI/I2C/PWM
+
+Headphone port: Insert 3.5mm headphone jack to support left and right channel output
+
+Left and right channel speakers: support output 4Ω 3W speaker output, and support dual channel output
+
+Two analog microphones, respectively, as audio input; support for headset microphone input
+
+Support 3.7V lithium battery input; support 5V 2A power input, support simultaneous lithium battery charging
+
+Support 64G SD card reading and writing
+
+Support multiple sleep modes
+
+Embedded Lwip and FreeRTOS
+
+Support STA/AP/STA+AP working mode
+
+Support Smart Config/AirKiss One-click distribution network
