@@ -2,7 +2,7 @@
 
 Collection of information on the ESP32 audio kit.
 
-I purchased some ESP32 audio kit V2.2 A417, from AliExpress, 
+I purchased some ESP32 audio kit V2.2 A417, from AliExpress, https://www.aliexpress.com/item/1005004949068471.html
 
 
 Ai Thinker webpage for board.  https://docs.ai-thinker.com/en/esp32-audio-kit
