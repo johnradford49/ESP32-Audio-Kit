@@ -1,0 +1,20 @@
+Key 1      GPIO36
+Key 2      GPIO13
+Key 3      GPIO19
+Key 4      GPIO23
+Key 5      GPIO18
+Key 6      GPIO05
+
+SDcard
+DATA2      GPIO12
+CD/DATA3   GPIO13
+CMD        GPIO15
+SD_CLK     GPIO14
+SD_DATA0   GPIO02
+SD_DATA1   GPIO04
+
+LED 1  Battery charge
+LED 2  Battery standby
+LED 3  3V3 power
+LED 4  GPIO22
+LED 5  GPIO19
