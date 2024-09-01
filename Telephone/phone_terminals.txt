@@ -1,2 +1,5 @@
-Hock switch T6 common, T5 on hook, T2 off hook.  Will use T6 and T5 as they are not connected to anything else.
+Hock switch T6 common, T5 on hook, T2 off hook.  Will use T6 (gpio22) and T5 (gnd) as they are not connected to anything else.
+
+Pulse from dial,orange and pink wires.  Pink to gnd, T5     Orange to GPIO19 T14
+
 
