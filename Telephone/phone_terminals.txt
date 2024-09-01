@@ -1,0 +1,2 @@
+Hock switch T6 common, T5 on hook, T2 off hook.  Will use T6 and T5 as they are not connected to anything else.
+
