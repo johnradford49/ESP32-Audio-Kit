@@ -2,4 +2,6 @@ Hock switch T6 common, T5 on hook, T2 off hook.  Will use T6 (gpio22) and T5 (gn
 
 Pulse from dial,orange and pink wires.  Pink to gnd, T5     Orange to GPIO19 T14
 
+When dial moved from stop pink is connected to brown,  use brown, GPIO23 for count reset
+
 
